@@ -1,4 +1,4 @@
-# Alteryx-Weekly-Challenge-24
+# Alteryx-Weekly-Challenge-24: ARIMA Time Series.
 
 Problem:
 
